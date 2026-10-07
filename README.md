@@ -1,19 +1,48 @@
-👋 Hi, I'm Nejash Shukur — JUNDI zRobot
+# Nejjash Shukur
 
-🇪🇹 Ethiopian Developer • Critical Thinker • Cybersecurity Enthusiast • Digital Creator
+**Ethiopian Student • Programmer • Software Developer • Cybersecurity Enthusiast**
 
-I'm Nejash Shukur, a 15-year-old Ethiopian self-taught developer and cybersecurity enthusiast known online as JUNDI zRobot and JUNDI zRoot.
+## About Me
 
-I'm passionate about AI, software development, automation, computer vision, web development, cybersecurity, ethical penetration testing, and game development. I enjoy building realistic, polished projects and experimenting with ideas that push beyond ordinary software.
+I'm **Nejjash Shukur**, an Ethiopian student and self-taught programmer interested in software engineering, cybersecurity, artificial intelligence, Linux, web development, automation, and emerging technology.
 
-🧠 Mindset: Question everything. Understand how things work. Build. Break. Improve. Repeat.
+I learn through hands-on projects, experimentation, independent study, and building practical software.
 
-💻 Tech: Python • HTML • CSS • JavaScript • AI • Automation • Computer Vision • Cybersecurity
+I am also known online as **JUND1 zRobot** and **JUND1 zRoot**.
 
-🛡️ Cybersecurity: Ethical hacking, penetration testing, networking, security research, and defensive security.
+## Areas of Interest
 
-🚀 Vision: I'm not interested in simply becoming "advanced." I'm aiming toward what I call the Tera, zeta-MIND stage — a level of thinking beyond the conventional Mega Mind concept, where programming, cybersecurity, AI, creativity, and critical thinking come together.
+- Software development
+- Python
+- JavaScript
+- HTML & CSS
+- Web development
+- Artificial intelligence
+- Computer vision
+- Linux and Termux
+- Cybersecurity
+- Ethical security research
+- Penetration testing in authorized environments
+- Automation
 
-I'm still young, still learning, and still building — but I'm already working toward becoming someone capable of creating powerful, useful, and genuinely unconventional technology.
+## Projects
 
-«JUNDI zRobot — Think deeper. Build smarter. Go beyond.»
+I use GitHub to build and document software projects, experiments, learning projects, and technology tools.
+
+My repositories cover different areas of programming, software development, cybersecurity, and technology.
+
+## Learning
+
+I'm continuously developing my skills through practical projects, reading documentation, experimenting with technology, and studying how software and computer systems work.
+
+## Cybersecurity
+
+My cybersecurity interests focus on ethical security research, defensive security, networking, Linux, and authorized security testing.
+
+## Connect
+
+GitHub: https://github.com/nejjash-habibi
+
+---
+
+**Nejjash Shukur — Programmer, Software Developer, and Cybersecurity Enthusiast.**
