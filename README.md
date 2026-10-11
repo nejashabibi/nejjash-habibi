@@ -1,4 +1,7 @@
-👋 Hi, I'm Nejash Shukur — JUNDI zRobot
+
+👋 Hi, I'm Nejjashabibi 
+
+Also known as Nejash Shukur — JUNDI zRobot
 
 🇪🇹 Ethiopian Developer • Critical Thinker • Cybersecurity Enthusiast • Digital Creator
 
